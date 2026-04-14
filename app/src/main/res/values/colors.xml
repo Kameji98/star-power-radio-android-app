@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="spr_bg">#08111F</color>
+    <color name="spr_bg_secondary">#0E1B30</color>
+    <color name="spr_card">#122543</color>
+    <color name="spr_card_2">#183055</color>
+    <color name="spr_blue">#2D8CFF</color>
+    <color name="spr_blue_light">#58A8FF</color>
+    <color name="spr_text">#FFFFFF</color>
+    <color name="spr_text_muted">#B9C7D8</color>
+</resources>
