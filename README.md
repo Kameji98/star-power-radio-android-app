@@ -31,7 +31,7 @@ Android application for **Star Power Radio** with live audio streaming, backgrou
 
 Download the latest APK and install it on your Android device.
 
-*(Upload your APK here later and replace this text with the link)*
+https://github.com/Kameji98/star-power-radio-android-app/releases/download/v1.0/Star.Power.Radio.apk
 
 ---
 
