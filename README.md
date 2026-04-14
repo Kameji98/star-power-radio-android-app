@@ -75,7 +75,7 @@ Star Power Radio is an online radio station offering live music and entertainmen
 
 ## 👨‍💻 Author
 
-**Giovanni Codianni (Kameji98)**
+**Kameji98**
 GitHub: https://github.com/Kameji98
 
 ---
