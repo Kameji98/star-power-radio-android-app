@@ -59,13 +59,13 @@ git clone https://github.com/Kameji98/star-power-radio-android-app.git
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/1_home.jpg" width="250"/>
-  <img src="./screenshots/2_radio.jpg" width="250"/>
-  <img src="./screenshots/3_notification.jpg" width="250"/>
+  <img src="./screenshots/home.jpg" width="250"/>
+  <img src="./screenshots/radio.jpg" width="250"/>
+  <img src="./screenshots/notification.jpg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/4_webview.jpg" width="320"/>
+  <img src="./screenshots/webview.jpg" width="320"/>
 </p>
 
 ---
